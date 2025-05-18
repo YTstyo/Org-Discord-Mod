@@ -16,7 +16,7 @@
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/omni-discord-bot.git
+git clone https://github.com/YTstyo/Org-Discord-Mod.git
 cd omni-discord-bot
 pip install -r requirements.txt
 ```
