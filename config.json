@@ -1,1 +1,17 @@
-
+{
+    "DISCORD_TOKEN": "YOUR_BOT_TOKEN",
+    "OWNER_ID": "YOUR_USER_ID",
+    "DATABASE": {
+        "DB_PATH": "data/omni.db"
+    },
+    "APIS": {
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY",
+        "CX_ID": "YOUR_CX_ID",
+        "DEEP_AI_KEY": "YOUR_DEEP_AI_KEY"
+    },
+    "SETTINGS": {
+        "PREFIX": "!",
+        "COOLDOWN": 60,
+        "PRESENCE_TEXT": "/help"
+    }
+}
