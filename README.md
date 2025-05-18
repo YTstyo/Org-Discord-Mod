@@ -13,14 +13,6 @@
 ![Search Example](https://www.gstatic.com/images/branding/product/2x/googleg_96dp.png)  
 *Google Logo (Fair Use)*
 
-### ⚙️ Automated Moderation
-![Shield Icon](https://www.svgrepo.com/show/271161/shield-security.svg)  
-*CC0 License via SVG Repo*
-
-### ⏰ Reminder System
-![Clock Icon](https://www.svgrepo.com/show/52258/clock.svg)  
-*CC0 License via SVG Repo*
-
 ## 🛠 Installation
 
 ```bash
