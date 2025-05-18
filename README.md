@@ -1,8 +1,5 @@
 # Omni Discord Bot
 
-![Bot Banner](https://images.unsplash.com/photo-1631624215799-6b9b8b5f1c0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=400&q=80)
-*Photo by [Andy Hermawan](https://unsplash.com/@andyprime) on Unsplash*
-
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
 ![Discord.py Version](https://img.shields.io/badge/discord.py-2.0.1-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
