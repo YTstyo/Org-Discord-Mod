@@ -7,7 +7,6 @@
 ## 🌟 Features
 
 ### 🎨 AI Art Generation
-![Art Example](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Stable_Diffusion_artist_workspace.png/640px-Stable_Diffusion_artist_workspace.png)  
 *CC-BY-SA 4.0 via Wikimedia Commons*
 
 ### 🔍 Google Search Integration
